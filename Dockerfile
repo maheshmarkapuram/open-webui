@@ -1,3 +1,4 @@
+#FROM 155577958684.dkr.ecr.ap-south-1.amazonaws.com/dso-devops-ml:sagemaker-3.8.15-devsec 
 # syntax=docker/dockerfile:1
 # Initialize device type args
 # use build args in the docker build commmand with --build-arg="BUILDARG=true"
